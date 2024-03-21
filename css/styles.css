@@ -332,6 +332,16 @@ footer {
     }
 
 
+    p{
+        font-size: 1 rem;
+        line-height: 1.6;
+    }
+    b{
+    font-size: 1.1em;
+    }
+
+
+    
     .anonimo img {
 
         width: 80%;
